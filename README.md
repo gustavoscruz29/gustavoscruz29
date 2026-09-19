@@ -1,6 +1,6 @@
 <h1 align="center">Gustavo dos Santos Cruz</h1>
 
-<p align="center">Computer Science Student | Aspiring Software Developer | Competitive Programmer</p>
+<p align="center">Computer Science student, teaching assistant, and increasingly hooked on solving hard problems.</p>
 
 ---
 
